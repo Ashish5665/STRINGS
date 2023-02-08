@@ -14,3 +14,6 @@ public class indexof{
         int index4=s1.indexOf('s');
         System.out.println(index4);
     }}
+//Katta Ashish kumar
+//210303126123
+//19th division
