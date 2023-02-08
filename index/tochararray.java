@@ -8,3 +8,6 @@ public class tochararray{
             System.out.print(ch[i]);
         }
     }}
+//Katta Ashish kumar
+//210303126123
+//19th division
