@@ -6,3 +6,6 @@ public class lastindexof{
         int index1=s1.lastIndexOf('s');
         System.out.println(index1);//6
     }}
+//Katta Ashish kumar
+//210303126123
+//19th division
