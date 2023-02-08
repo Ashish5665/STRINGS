@@ -9,3 +9,6 @@ public class getchars{
             System.out.println(ch);
         }catch(Exception ex){System.out.println(ex);}
     }}
+//Katta Ashish kumar
+//210303126123
+//19th division
