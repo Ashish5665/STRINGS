@@ -8,3 +8,6 @@ public class intern{
         System.out.println(s1==s2);
         System.out.println(s2==s3);
     }}
+//Katta Ashish kumar
+//210303126123
+//19th division
