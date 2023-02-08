@@ -7,3 +7,6 @@ public class length{
         System.out.println("string length is: "+s1.length());
         System.out.println("string length is: "+s2.length());
     }}
+//Katta Ashish kumar
+//210303126123
+//19th division
