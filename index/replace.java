@@ -6,3 +6,6 @@ public class replace{
         String replaceString=s1.replace('a','e');
         System.out.println(replaceString);
     }}
+//Katta Ashish kumar
+//210303126123
+//19th division
