@@ -10,3 +10,6 @@ public class equals{
         System.out.println(s1.equals(s3));
         System.out.println(s1.equals(s4));
     }}
+//Katta Ashish kumar
+//210303126123
+//19th division
