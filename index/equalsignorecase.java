@@ -10,3 +10,6 @@ public class equalsignorecase{
         System.out.println(s1.equalsIgnoreCase(s3));
         System.out.println(s1.equalsIgnoreCase(s4));
     }}
+//Katta Ashish kumar
+//210303126123
+//19th division
