@@ -8,3 +8,6 @@ public class isempty{
         System.out.println(s1.isEmpty());
         System.out.println(s2.isEmpty());
     }}
+//Katta Ashish kumar
+//210303126123
+//19th division
