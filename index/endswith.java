@@ -6,3 +6,6 @@ public class endswith{
         System.out.println(s1.endsWith("t"));
         System.out.println(s1.endsWith("point"));
     }}
+//Katta Ashish kumar
+//210303126123
+//19th division
